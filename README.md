@@ -2,7 +2,7 @@
 
 Materials for a YouTube video demonstrating AI coding assistant configuration patterns.
 
-_Video link: [Coming soon]_
+_Video link: [here](https://www.youtube.com/watch?v=iI2Kqw1WQ3E&t=86s)_
 
 ## Repository Structure
 
